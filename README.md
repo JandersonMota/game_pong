@@ -23,7 +23,7 @@ Para jogar o Pong Multiplayer, basta clonar o repositório, abrir o arquivo `ind
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [URL do repositório]
+   git clone https://github.com/JandersonMota/game_pong.git
    ```
 2. Navegue até a pasta do projeto e abra o arquivo `index.html` no seu navegador.
 
