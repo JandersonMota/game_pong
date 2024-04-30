@@ -1,16 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/addons/p5.sound.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="styles/style.css" />
     <meta charset="utf-8" />
-
   </head>
   <body>
-    <main>
+    <main class="apresentacao">
+      <section class="apresentacao__conteudo">
+        <div>
+          <p class="apresentacao__conteudo__titulo">PONG</p>
+          <p>Jogar com o teclado.</p>
+          <p>G1: W=p/ cima S=p/ baixo; G2: seta pra cima e seta pra baixo.</p>
+        </div>
+        <script src="scripts/sketch.js"></script>
+        <script src="scripts/p5.collide2d.js"></script>
+      </section>
     </main>
-    <script src="sketch.js"></script>
-    <script src="p5.collide2d.js"></script>
   </body>
 </html>
