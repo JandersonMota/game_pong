@@ -2,6 +2,9 @@
 
 Bem-vindo ao repositório do meu projeto, onde desenvolvi um clássico renascido: o jogo Pong, agora em uma versão multiplayer, utilizando JavaScript!
 
+![image](https://github.com/JandersonMota/game_pong/assets/80362674/1249bd88-cdd5-49cc-aec0-9810df195af7)
+
+
 ## 📜 Sobre o Projeto
 Estou animado em compartilhar meu mais recente projeto de desenvolvimento: uma recriação do icônico jogo Pong, jogado por duas pessoas! A essência do jogo Pong original foi preservada, mantendo a simplicidade que o tornou um clássico atemporal. A interação da bola quicando entre as raquetes é tão cativante quanto sempre foi!
 
